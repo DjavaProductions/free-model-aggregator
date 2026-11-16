@@ -1,5 +1,9 @@
 # free-model-aggregator
 
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/DjavaProductions/free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/DjavaProductions/free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 One server, two client wires, and the best live free model behind every answer.
 
 This is an entry for make.fun's **"The best live free-model aggregator"**
